@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     private var fetchDelayMillis:Long = 0;
     private val fetchPeriodMillis:Long = 1000 * 60;
     private val displayDelayMillis:Long = 0;
-    private val displayPeriodMillis:Long = 1000 * 5;
+    private val displayPeriodMillis:Long = 1000 * 10;
 
     private var fetchTimer:Timer? = null
     private var displayTimer:Timer? = null
