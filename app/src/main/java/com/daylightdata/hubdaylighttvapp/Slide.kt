@@ -1,4 +1,4 @@
-package com.example.daylighttvapp
+package com.daylightdata.hubdaylighttvapp
 
 class Slide {
     var text: String = ""

@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">@hubdaylight TV</string>
     <string name="Name">Name</string>
     <string name="slide_gettext">slide.getText()</string>
-    <color name="white">#FFFFFF</color>
 </resources>
